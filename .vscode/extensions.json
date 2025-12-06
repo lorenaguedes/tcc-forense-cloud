@@ -1,0 +1,28 @@
+{
+    // Extensões recomendadas para o projeto
+    "recommendations": [
+        // Python
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        
+        // Docker
+        "ms-azuretools.vscode-docker",
+        
+        // Git
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        
+        // YAML/JSON
+        "redhat.vscode-yaml",
+        
+        // Markdown
+        "yzhang.markdown-all-in-one",
+        
+        // Utilitários
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+        "EditorConfig.EditorConfig"
+    ]
+}
